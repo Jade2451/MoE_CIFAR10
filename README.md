@@ -71,7 +71,7 @@ python scripts/train.py --model densenet
 python scripts/train.py --model topk_moe
 ```
 
-**4. Evaluation phase: **
+**4. Evaluation phase:**
 
 After training, run the evaluation script to generate performance metrics and visualizations.
 ```bash
