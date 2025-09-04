@@ -85,7 +85,7 @@ python scripts/evaluate.py --model topk_moe --checkpoint_path topk_moe_baseline.
 ## Future Work
 This project establishes a strong foundation for further research into MoE models. Potential next steps include:
 
-1. I want to target improve this expert specialisation metric in particular. 
+1. I want to target improving the expert specialisation metric in particular. 
 
 2. Incorporate more sophisticated load balancing losses, such as entropy-based losses or those that account for expert capacity.
 
