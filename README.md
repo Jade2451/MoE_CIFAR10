@@ -1,4 +1,4 @@
-# Comparative Analysis of Mixture-of-Experts (MoE) Routing Strategies for CIFAR-10
+# Analysis of Mixture-of-Experts (MoE) Routing Strategies
 
 This repository contains the code and analysis for a comparative study of different model architectures and Mixture-of-Experts (MoE) routing strategies for image classification on the CIFAR-10 dataset.
 
